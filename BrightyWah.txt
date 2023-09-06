@@ -1,7 +1,7 @@
 BrightyWah
 Effetto Auto Wah modulato dalla feature CoBE (Continuous Brightness Estimation).
 Auto Wah effect modulated by CoBE feature (Continuous Brightness Estimation).
-link
+https://github.com/JacoStu/BrightyWah
 link
 Stighezza Valeria & Stucchi Jacopo
 vale348.coki@gmail.com, jacopostucchi@icloud.com
