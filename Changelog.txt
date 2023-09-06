@@ -1,0 +1,4 @@
+BRIGHTYWAH PLUGIN CHANGELOG
+
+BrightyWah :: 1.0.0 :: 02/09/2023
+- Initial release
